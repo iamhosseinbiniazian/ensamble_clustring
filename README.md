@@ -7,8 +7,8 @@ This is project for detecting community in the social graph. graph of realations
 ensamble clustring 
 
 ## Installation
-install networkx, matplotlib, numpy,sklearn, python package
-all datasets are exist in directory  dataset/
+-install networkx, matplotlib, numpy,sklearn, python package
+-all datasets are exist in directory  dataset/
 
 ## Usage
 - run file Main.py to use sklearn clustring techniques to detecting community
