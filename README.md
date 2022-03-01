@@ -1,6 +1,6 @@
 # ensamble_clustring
  
-This is project for detecting community in the social graph. graph of realationship in the network contain many useful information about the entety in the socity. we can dedicate the power of python programing language to extract this information. In this project has been used  ensamble principle and clustring techniques in sklearn package.
+This project is for detecting community in the social graph. graph of realationship in the network contain many useful information about the entety in the socity. we can dedicate the power of python programing language to extract this information. In this project has been used  ensamble principle and clustring techniques in sklearn package.
 - detecting community in social graph
 - ensamble clustring 
 
